@@ -1,0 +1,4 @@
+[
+    { "id": 1, "type": "dev", "label": "Development", "active": true },
+    { "id": 2, "type": "design", "label": "Design", "active": false }
+]

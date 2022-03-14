@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "label": "Mobile Applications",
+        "active": true,
+        "type": "dev",
+        "projects": [
+            {
+                "id": 1,
+                "image": "essemar.png",
+                "name": "Essemar",
+                "slug": "essemar",
+                "stack": [
+                    {
+                        "title": "React Native",
+                        "src": "images/react-native.svg"
+                    },
+                    {
+                        "title": "JavaScript",
+                        "src": "../images/javascript.png"
+                    },
+                    {
+                        "title": "Redux",
+                        "src": "../images/redux.png"
+                    }
+                ],
+                "description": "An Ecommerce app for a groccer"
+            },
+            {
+                "id": 24,
+                "image": "vecostore.png",
+                "name": "Vecostore",
+                "slug": "vecostore",
+                "stack": [
+                    {
+                        "title": "React Native",
+                        "src": "images/react-native.svg"
+                    },
+                    {
+                        "title": "JavaScript",
+                        "src": "../images/javascript.png"
+                    },
+                    {
+                        "title": "Redux",
+                        "src": "../images/redux.png"
+                    }
+                ],
+                "description": "An Ecommerce app for a pharmaceutical provider"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "label": "Landing Page",
+        "active": false,
+        "type": "dev",
+        "projects": [
+            {
+                "id": 1,
+                "image": "trydo.png",
+                "name": "Trydo",
+                "slug": "trydo",
+                "stack": [
+                    {
+                        "title": "HTML",
+                        "src": "images/html.png"
+                    },
+                    {
+                        "title": "CSS",
+                        "src": "images/css.png"
+                    },
+                    {
+                        "title": "Sass",
+                        "src": "images/sass.png"
+                    },
+                    {
+                        "title": "Javascript",
+                        "src": "images/react-native.svg"
+                    }
+                ],
+                "description": "A dark themed landing page for digital agencies"
+            },
+            {
+                "id": 2,
+                "image": "mntn.png",
+                "name": "MNTN",
+                "slug": "mntn",
+                "stack": [
+                    {
+                        "title": "HTML",
+                        "src": "images/html.png"
+                    },
+                    {
+                        "title": "CSS",
+                        "src": "images/css.png"
+                    },
+                    {
+                        "title": "Sass",
+                        "src": "images/sass.png"
+                    },
+                    {
+                        "title": "Javascript",
+                        "src": "images/react-native.svg"
+                    }
+                ],
+                "description": "A recreation of a figma design I found"
+            }
+        ]
+    }
+]
